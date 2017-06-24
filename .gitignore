@@ -1,0 +1,11 @@
+#vs
+obj/*
+*.opensdf
+*.sdf
+*.suo
+
+#bin
+bin/*
+
+#sub
+
